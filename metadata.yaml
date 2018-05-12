@@ -1,10 +1,16 @@
 _repo: Three-Years-in-the-Service-A-Record-of-the-Doings-of-the-11th-Reg-Missouri-Vols_48822
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48822-h/images/cover.jpg
 creator:
   author:
     agent_name: McCall, D.
     gutenberg_agent_id: '44983'
     url: http://www.gutenberg.org/2009/agents/44983
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48822#Three-Years-in-the-Service-A-Record-of-the-Doings-of-the-11th-Reg-Missouri-Vols
 gutenberg_issued: '2015-04-29'
 gutenberg_type: Text
 identifiers:
